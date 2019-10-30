@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt-get install python-pip
+sudo pip install shadowsocks
+cd /etc
+sudo mkdir shadowsocks
+cd shadowsocks
+sudo touch shadowsocks.json

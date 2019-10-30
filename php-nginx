@@ -1,0 +1,10 @@
+sudo apt update
+sudo apt install php
+sudo apt install php-fpm
+sudo apt install nginx
+sudo apt-get install mysql-server 
+
+sudo apt-get install php-json
+sudo apt-get install php-curl
+sudo apt-get install php-mysql
+sudo apt-get install php-cgi
